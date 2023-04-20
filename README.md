@@ -14,7 +14,7 @@ For macOS...
 2. Click Go and select This Computer : TODO  
 </br>
 <p align="left">
-  <img src="/" width="500" alt="Screenshot of Bibles folder to copy">
+  <img src="./Screenshot%20(143).png" width="500" alt="Tedim (Chin) Bible 2010 for macOS">
 </p></br>
 3. Open Propresenter Software, go to Bible and you can use the Tedim (Chin) Bible now...
    </br></br></p>
