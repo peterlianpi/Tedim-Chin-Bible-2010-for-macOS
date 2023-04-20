@@ -22,4 +22,4 @@ For Any Reasons, Contact me : peterpausianlian2020@gmail.com :) </br> Thanks for
 
 Video link:</br>
 Complete Example
-[![Tedim (Chin) Bible for Propresenter 7](https://img.youtube.com/vi/.../0.jpg)](https://www.youtube.com/watch?v= "Tedim (Chin) Bible for Propresenter 7")
+[![Tedim (Chin) Bible for Propresenter 7](https://img.youtube.com/vi/e97Xmk1L70Y/0.jpg)](https://www.youtube.com/watch?v=e97Xmk1L70Y "Tedim (Chin) Bible for Propresenter 7")
