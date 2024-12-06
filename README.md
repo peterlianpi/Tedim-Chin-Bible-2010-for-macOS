@@ -1,7 +1,7 @@
 # Tedim-Chin-Bible-2010-for-macOS
 Tedim (Chin) Bible 2010 for macOS
 
-<h1>This is the Bible translation in Tedim (Chin) 2010, Lai Siangtho to use with Propresenter 7. </h1>
+<h1>This is the Bible translation in Tedim (Chin) 2010 and Tedim Bible 1977, Lai Siangtho to use with Propresenter 7. </h1>
 
 <p>Included Bibles</br>
 Aim to use Tedim (Chin) version.
